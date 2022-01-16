@@ -21,4 +21,4 @@ echo 'src-git other https://github.com/hlwqcc/openwrt-packages' >>feeds.conf.def
 
 
 # Lienol/openwrt-package
-sed -i '$a src-git lienol https://github.com/Lancenas/lienol-openwrt-package.git' feeds.conf.default
+#sed -i '$a src-git lienol https://github.com/Lancenas/lienol-openwrt-package.git' feeds.conf.default
